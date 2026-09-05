@@ -13,35 +13,31 @@
 
 ### 3 builds that show how I work
 
-**🧠 Professional Brain** · Private GitHub repository<br>
-I structured the experience, evidence, and methods behind my website into a versioned knowledge base, then added reusable AI skills and automated checks.<br>
-**For your team:** turn scattered knowledge into reliable AI workflows.
+| I built it | What it lets me do |
+| :--- | :--- |
+| **🧠 I gave my experience a brain.**<br>Professional Brain: a private GitHub knowledge base built from my experience and website evidence, with reusable AI skills and automated checks. | **Build AI knowledge systems.**<br>Turn scattered information into structured context that agents can use and check. |
+| **🌐 I built my personal website.**<br>[aatifmulla.me ↗](https://aatifmulla.me/)<br>My case studies and proof, brought to life by me from design through deployment. | **Take an idea live.**<br>Connect storytelling, AI-assisted building, testing, and shipping in one project. |
+| **⚙️ I connected the GTM pieces.**<br>[GTM systems on my site ↗](https://aatifmulla.me/gtm-systems.html)<br>Lead follow-up, lifecycle triggers, and measurement working together. | **Make follow-up repeatable.**<br>Automate handoffs and see where prospects move forward or drop off. |
 
-**🌐 My personal website**<br>
-[aatifmulla.me ↗](https://aatifmulla.me/)<br>
-I built this site myself, from design through deployment. It brings my case studies and supporting proof together.<br>
-**For your team:** take an idea from a blank page to a live product.
+### 🧠 AI & automation
 
-**⚙️ GTM systems** · [Explore the workflows ↗](https://aatifmulla.me/gtm-systems.html)<br>
-On my site: the GTM cycles I built to connect lead follow-up, lifecycle automation, and measurement.<br>
-**For your team:** reduce manual handoffs and make follow-up repeatable.
+![Codex](https://img.shields.io/badge/Codex-107F68?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white)
 
-**AI & automation**
+### 📊 GTM & analytics
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-107F68?style=flat-square)
-![Notion](https://img.shields.io/badge/Notion-242424?style=flat-square&logo=notion&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge)
+![Clay](https://img.shields.io/badge/Clay-DF543D?style=for-the-badge)
+![Gong](https://img.shields.io/badge/Gong-6F2CFF?style=for-the-badge)
 
-**GTM & measurement**
+### 🛠️ Build & ship
 
-![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square)
-![Apollo.io](https://img.shields.io/badge/Apollo.io-FFD747?style=flat-square)
-![PostHog](https://img.shields.io/badge/PostHog-F9BD2B?style=flat-square&logo=posthog&logoColor=000000)
-![Mixpanel](https://img.shields.io/badge/Mixpanel-7856FF?style=flat-square&logo=mixpanel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square)
-![Clay](https://img.shields.io/badge/Clay-DF543D?style=flat-square)
+![Figma](https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge)
 
 <a href="./profile/activity.json"><img src="./profile/activity.svg" width="680" alt="Public authored commits, active days, and weekly history. Open for dated source data."></a>
