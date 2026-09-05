@@ -24,7 +24,3 @@ I like turning messy problems into working systems, then using data to make them
 - 🧠 **Professional Brain** · `PRIVATE BUILD` · A versioned career knowledge system with Python and PowerShell tooling, automated checks, and reusable agent skills.
 - 🌐 **[aatifmulla.me](https://aatifmulla.me/)** · A public site I design, code, measure, and ship through GitHub.
 - ⚙️ **GTM systems** · I connect customer feedback, automation, and measurement, then keep iterating.
-
-<p align="center">
-  <img src="./profile/builder-stats.svg" width="495" alt="GitHub builder activity showing commits and pull requests.">
-</p>
