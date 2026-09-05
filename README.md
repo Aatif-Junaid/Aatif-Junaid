@@ -1,12 +1,6 @@
-<img align="left" src="./assets/am-comet-orbit-transparent.gif" width="150" alt="Aatif's AM monogram with an orbiting comet.">
-
-### Aatif Junaid Mulla
+<p><img src="./assets/am-comet-orbit-transparent.gif" width="14%" alt="Aatif's AM monogram with an orbiting comet."> <img src="./assets/name.svg" width="84%" alt="Aatif Junaid Mulla"></p>
 
 **I build AI workflows, connect GTM tools, and turn customer feedback into working systems.**
-
-Research the problem. Build the workflow. Measure what changes.
-
-<br clear="left">
 
 <table width="100%">
 <tr>
@@ -19,11 +13,18 @@ Research the problem. Build the workflow. Measure what changes.
 
 ### 3 builds that show how I work
 
-| Build | What it does | What I bring |
-| :--- | :--- | :--- |
-| **Professional Brain** · Private | Organizes career knowledge and reusable agent skills, with automated checks. | Knowledge systems and AI workflows |
-| **[Personal website ↗](https://aatifmulla.me/)** · [Source](https://github.com/Aatif-Junaid/Aatif_Junaid-Website) | Turns my work into a live site with case studies and deployment checks. | AI-assisted building, testing, and shipping |
-| **[GTM lifecycle system ↗](https://aatifmulla.me/gtm-systems.html)** | Connects lead follow-up, lifecycle triggers, and funnel measurement. | Workflow automation and revenue operations |
+**🧠 Professional Brain** · Private GitHub repository<br>
+I structured the experience, evidence, and methods behind my website into a versioned knowledge base, then added reusable AI skills and automated checks.<br>
+**For your team:** turn scattered knowledge into reliable AI workflows.
+
+**🌐 My personal website**<br>
+[aatifmulla.me ↗](https://aatifmulla.me/)<br>
+I built this site myself, from design through deployment. It brings my case studies and supporting proof together.<br>
+**For your team:** take an idea from a blank page to a live product.
+
+**⚙️ GTM systems** · [Explore the workflows ↗](https://aatifmulla.me/gtm-systems.html)<br>
+On my site: the GTM cycles I built to connect lead follow-up, lifecycle automation, and measurement.<br>
+**For your team:** reduce manual handoffs and make follow-up repeatable.
 
 **AI & automation**
 
@@ -41,10 +42,6 @@ Research the problem. Build the workflow. Measure what changes.
 ![PostHog](https://img.shields.io/badge/PostHog-F9BD2B?style=flat-square&logo=posthog&logoColor=000000)
 ![Mixpanel](https://img.shields.io/badge/Mixpanel-7856FF?style=flat-square&logo=mixpanel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square)
-![Calendly](https://img.shields.io/badge/Calendly-006BFF?style=flat-square&logo=calendly&logoColor=white)
+![Clay](https://img.shields.io/badge/Clay-DF543D?style=flat-square)
 
-<details>
-<summary>GitHub activity · verified public data</summary>
-<br>
 <a href="./profile/activity.json"><img src="./profile/activity.svg" width="680" alt="Public authored commits, active days, and weekly history. Open for dated source data."></a>
-</details>
