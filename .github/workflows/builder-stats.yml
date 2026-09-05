@@ -1,0 +1,43 @@
+name: Refresh builder stats
+
+on:
+  schedule:
+    - cron: "17 8 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/builder-stats.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: builder-stats
+  cancel-in-progress: true
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate builder activity card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: "username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&hide_rank=true&hide=stars,issues,contribs&show=prs_merged&custom_title=Builder%20activity&title_color=2f7fb3&text_color=6b655b&icon_color=2f7fb3&bg_color=00000000&hide_border=true&number_format=long"
+          path: profile/builder-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit refreshed stats
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/builder-stats.svg
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: refresh builder stats"
+          git push
