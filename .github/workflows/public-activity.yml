@@ -1,0 +1,31 @@
+name: Refresh public activity
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 8 * * *'
+  push:
+    branches: [main]
+    paths: ['scripts/refresh-activity.mjs', '.github/workflows/public-activity.yml']
+permissions:
+  contents: write
+concurrency:
+  group: public-activity
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - name: Generate and validate public activity
+        run: node scripts/refresh-activity.mjs
+        env:
+          GH_TOKEN: ${{ github.token }}
+      - name: Save successful refresh
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add profile/activity.svg profile/activity.json
+          git diff --cached --quiet && exit 0
+          git commit -m 'chore: refresh public activity'
+          git pull --rebase origin main
+          git push
