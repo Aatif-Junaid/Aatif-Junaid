@@ -33,12 +33,7 @@
 
 ### <img src="./assets/icon-ai.webp" width="36" height="30" align="absmiddle" alt=""> AI & automation
 
-<img src="https://img.shields.io/badge/Codex-107F68?style=for-the-badge" height="28" alt="Codex">
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&amp;logo=claude&amp;logoColor=white" height="28" alt="Claude">
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&amp;logo=googlegemini&amp;logoColor=white" height="28" alt="Gemini">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" height="28" alt="Python">
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&amp;logo=n8n&amp;logoColor=white" height="28" alt="n8n">
-<img src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&amp;logo=zapier&amp;logoColor=white" height="28" alt="Zapier">
+<p><img src="https://img.shields.io/badge/Codex-107F68?style=for-the-badge" height="28" alt="Codex"> <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&amp;logo=claude&amp;logoColor=white" height="28" alt="Claude"> <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&amp;logo=googlegemini&amp;logoColor=white" height="28" alt="Gemini"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" height="28" alt="Python"> <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&amp;logo=n8n&amp;logoColor=white" height="28" alt="n8n"> <img src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&amp;logo=zapier&amp;logoColor=white" height="28" alt="Zapier"></p>
 
 ### <img src="./assets/icon-analytics.png" width="32" height="32" align="absmiddle" alt=""> GTM & analytics
 
@@ -46,8 +41,6 @@
 
 ### <img src="./assets/icon-build.png" width="32" height="32" align="absmiddle" alt=""> Build & ship
 
-<img src="https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&amp;logo=figma&amp;logoColor=white" height="28" alt="Figma">
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" height="28" alt="GitHub Actions">
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge" height="28" alt="PowerShell">
+<p><img src="https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&amp;logo=figma&amp;logoColor=white" height="28" alt="Figma"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" height="28" alt="GitHub Actions"> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge" height="28" alt="PowerShell"></p>
 
 <a href="./profile/activity.json"><img src="./profile/activity.svg" width="680" alt="Public authored commits, active days, and weekly history. Open for dated source data."></a>
