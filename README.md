@@ -14,7 +14,7 @@
 ### 3 builds that show how I work
 
 <table width="100%">
-<thead><tr><th width="62%" align="center"><h3>I built it</h3></th><th width="38%" align="center"><h3>What it lets me do</h3></th></tr></thead>
+<thead><tr><th width="62%" align="center"><h2>What I built?</h2></th><th width="38%" align="center"><h2>What it lets me do!</h2></th></tr></thead>
 <tbody>
 <tr>
 <td align="left" valign="top"><p><img src="./assets/icon-brain-cropped.png" width="32" height="26" align="absmiddle" alt=""> &nbsp; <strong>Professional Brain</strong></p>Private, retrieval-ready GitHub knowledge system indexing my GTM experience, skills, metrics, interviews, and evidence, so AI pulls the precise context needed, not generic summaries.</td>
