@@ -15,14 +15,15 @@
 
 | I built it | What it lets me do |
 | :--- | :--- |
-| **🧠 I gave my experience a brain.**<br>Professional Brain: a private GitHub knowledge base built from my experience and website evidence, with reusable AI skills and automated checks. | **Build AI knowledge systems.**<br>Turn scattered information into structured context that agents can use and check. |
-| **🌐 I built my personal website.**<br>[aatifmulla.me ↗](https://aatifmulla.me/)<br>My case studies and proof, brought to life by me from design through deployment. | **Take an idea live.**<br>Connect storytelling, AI-assisted building, testing, and shipping in one project. |
-| **⚙️ I connected the GTM pieces.**<br>[GTM systems on my site ↗](https://aatifmulla.me/gtm-systems.html)<br>Lead follow-up, lifecycle triggers, and measurement working together. | **Make follow-up repeatable.**<br>Automate handoffs and see where prospects move forward or drop off. |
+| **Professional Brain**<br>Private, retrieval-ready GitHub knowledge system indexing my GTM experience, skills, metrics, interviews, and evidence—so AI pulls the precise context needed, not generic summaries. | **Build AI-ready knowledge systems.**<br>Turn scattered work into structured, sourced, reusable intelligence. |
+| **Personal Website**<br>[aatifmulla.me ↗](https://aatifmulla.me/)<br>A living portfolio built from my professional record: case studies, proof, and point of view, designed and shipped end to end. | **Turn experience into a digital product.**<br>Connect strategy, storytelling, AI-assisted building, testing, and deployment. |
+| **GTM Systems**<br>[Explore live GTM systems ↗](https://aatifmulla.me/gtm-systems.html)<br>Working examples of lead follow-up, lifecycle orchestration, and measurement systems built to make growth execution repeatable. | **Design connected GTM operations.**<br>Route signals, automate handoffs, and expose conversion bottlenecks. |
 
 ### 🧠 AI & automation
 
 ![Codex](https://img.shields.io/badge/Codex-107F68?style=for-the-badge)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white)
@@ -33,6 +34,12 @@
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge)
 ![Clay](https://img.shields.io/badge/Clay-DF543D?style=for-the-badge)
 ![Gong](https://img.shields.io/badge/Gong-6F2CFF?style=for-the-badge)
+![Apollo.io](https://img.shields.io/badge/Apollo.io-FFD747?style=for-the-badge)
+![Attio](https://img.shields.io/badge/Attio-292929?style=for-the-badge)
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge)
 
 ### 🛠️ Build & ship
 
