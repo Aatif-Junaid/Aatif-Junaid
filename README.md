@@ -17,7 +17,7 @@
 <thead><tr><th width="62%" align="center"><h3>I built it</h3></th><th width="38%" align="center"><h3>What it lets me do</h3></th></tr></thead>
 <tbody>
 <tr>
-<td align="left" valign="top"><p><img src="./assets/icon-brain.webp" width="32" height="32" align="absmiddle" alt=""> &nbsp; <strong>Professional Brain</strong></p>Private, retrieval-ready GitHub knowledge system indexing my GTM experience, skills, metrics, interviews, and evidence, so AI pulls the precise context needed, not generic summaries.</td>
+<td align="left" valign="top"><p><img src="./assets/icon-brain-cropped.png" width="32" height="26" align="absmiddle" alt=""> &nbsp; <strong>Professional Brain</strong></p>Private, retrieval-ready GitHub knowledge system indexing my GTM experience, skills, metrics, interviews, and evidence, so AI pulls the precise context needed, not generic summaries.</td>
 <td align="left" valign="top"><p><strong>Build AI-ready knowledge systems.</strong></p>Turn scattered work into structured, sourced, reusable intelligence.</td>
 </tr>
 <tr>
@@ -33,21 +33,21 @@
 
 ### <img src="./assets/icon-ai.webp" width="36" height="30" align="absmiddle" alt=""> AI & automation
 
-![Codex](https://img.shields.io/badge/Codex-107F68?style=for-the-badge)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white)
+<img src="https://img.shields.io/badge/Codex-107F68?style=for-the-badge" height="28" alt="Codex">
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&amp;logo=claude&amp;logoColor=white" height="28" alt="Claude">
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&amp;logo=googlegemini&amp;logoColor=white" height="28" alt="Gemini">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" height="28" alt="Python">
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&amp;logo=n8n&amp;logoColor=white" height="28" alt="n8n">
+<img src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&amp;logo=zapier&amp;logoColor=white" height="28" alt="Zapier">
 
 ### <img src="./assets/icon-analytics.png" width="32" height="32" align="absmiddle" alt=""> GTM & analytics
 
-<p><img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&amp;logo=hubspot&amp;logoColor=white" width="12%" alt="HubSpot"> <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge" width="14%" alt="Salesforce"> <img src="https://img.shields.io/badge/Clay-DF543D?style=for-the-badge" width="8%" alt="Clay"> <img src="https://img.shields.io/badge/Gong-6F2CFF?style=for-the-badge" width="8%" alt="Gong"> <img src="https://img.shields.io/badge/Apollo.io-FFD747?style=for-the-badge" width="12%" alt="Apollo.io"> <img src="https://img.shields.io/badge/Attio-292929?style=for-the-badge" width="9%" alt="Attio"> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" width="7%" alt="SQL"> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge" width="9%" alt="Excel"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge" width="11%" alt="Tableau"></p>
+<p><img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&amp;logo=hubspot&amp;logoColor=white" height="28" alt="HubSpot"> <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge" height="28" alt="Salesforce"> <img src="https://img.shields.io/badge/Clay-DF543D?style=for-the-badge" height="28" alt="Clay"> <img src="https://img.shields.io/badge/Gong-6F2CFF?style=for-the-badge" height="28" alt="Gong"> <img src="https://img.shields.io/badge/Apollo.io-FFD747?style=for-the-badge" height="28" alt="Apollo.io"> <img src="https://img.shields.io/badge/Attio-292929?style=for-the-badge" height="28" alt="Attio"> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" height="28" alt="SQL"> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge" height="28" alt="Excel"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge" height="28" alt="Tableau"></p>
 
 ### <img src="./assets/icon-build.png" width="32" height="32" align="absmiddle" alt=""> Build & ship
 
-![Figma](https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge)
+<img src="https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&amp;logo=figma&amp;logoColor=white" height="28" alt="Figma">
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" height="28" alt="GitHub Actions">
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge" height="28" alt="PowerShell">
 
 <a href="./profile/activity.json"><img src="./profile/activity.svg" width="680" alt="Public authored commits, active days, and weekly history. Open for dated source data."></a>
