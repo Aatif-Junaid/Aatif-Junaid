@@ -15,11 +15,12 @@
 
 | I built it | What it lets me do |
 | :--- | :--- |
-| **Professional Brain**<br>Private, retrieval-ready GitHub knowledge system indexing my GTM experience, skills, metrics, interviews, and evidence, so AI pulls the precise context needed, not generic summaries. | **Build AI-ready knowledge systems.**<br>Turn scattered work into structured, sourced, reusable intelligence. |
+|  **Professional Brain**<br>Private, retrieval-ready GitHub knowledge system indexing my GTM experience, skills, metrics, interviews, and evidence, so AI pulls the precise context needed, not generic summaries. | **Build AI-ready knowledge systems.**<br>Turn scattered work into structured, sourced, reusable intelligence. |
 | **Personal Website**<br>[aatifmulla.me ↗](https://aatifmulla.me/)<br>A living portfolio built from my professional record: case studies, proof, and point of view, designed and shipped end to end. | **Turn experience into a digital product.**<br>Connect strategy, storytelling, AI-assisted building, testing, and deployment. |
 | **GTM Systems**<br>[Explore live GTM systems ↗](https://aatifmulla.me/gtm-systems.html)<br>Working examples of lead follow-up, lifecycle orchestration, and measurement systems built to make growth execution repeatable. | **Design connected GTM operations.**<br>Route signals, automate handoffs, and expose conversion bottlenecks. |
 
-### 🧠 AI & automation
+### 🧠 <img width="419" height="350" alt="artificial-intelligence-design-png" src="https://github.com/user-attachments/assets/3bd1c1af-8b81-416d-8e3e-0880d048d8e6" />
+AI & automation
 
 ![Codex](https://img.shields.io/badge/Codex-107F68?style=for-the-badge)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
