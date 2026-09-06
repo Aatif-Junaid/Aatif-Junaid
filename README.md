@@ -15,11 +15,11 @@
 
 | I built it | What it lets me do |
 | :--- | :--- |
-|  **Professional Brain**<br>Private, retrieval-ready GitHub knowledge system indexing my GTM experience, skills, metrics, interviews, and evidence, so AI pulls the precise context needed, not generic summaries. | **Build AI-ready knowledge systems.**<br>Turn scattered work into structured, sourced, reusable intelligence. |
-| **Personal Website**<br>[aatifmulla.me ↗](https://aatifmulla.me/)<br>A living portfolio built from my professional record: case studies, proof, and point of view, designed and shipped end to end. | **Turn experience into a digital product.**<br>Connect strategy, storytelling, AI-assisted building, testing, and deployment. |
-| **GTM Systems**<br>[Explore live GTM systems ↗](https://aatifmulla.me/gtm-systems.html)<br>Working examples of lead follow-up, lifecycle orchestration, and measurement systems built to make growth execution repeatable. | **Design connected GTM operations.**<br>Route signals, automate handoffs, and expose conversion bottlenecks. |
+| <img src="./assets/icon-brain.webp" width="56" height="56" align="absmiddle" alt=""> **Professional Brain**<br>Private, retrieval-ready GitHub knowledge system indexing my GTM experience, skills, metrics, interviews, and evidence, so AI pulls the precise context needed, not generic summaries. | **Build AI-ready knowledge systems.**<br>Turn scattered work into structured, sourced, reusable intelligence. |
+| <img src="./assets/icon-website.png" width="30" height="30" align="absmiddle" alt=""> **Personal Website**<br>[aatifmulla.me ↗](https://aatifmulla.me/)<br>A living portfolio built from my professional record: case studies, proof, and point of view, designed and shipped end to end. | **Turn experience into a digital product.**<br>Connect strategy, storytelling, AI-assisted building, testing, and deployment. |
+| <img src="./assets/icon-gtm.svg" width="30" height="30" align="absmiddle" alt=""> **GTM Systems**<br>[Explore live GTM systems ↗](https://aatifmulla.me/gtm-systems.html)<br>Working examples of lead follow-up, lifecycle orchestration, and measurement systems built to make growth execution repeatable. | **Design connected GTM operations.**<br>Route signals, automate handoffs, and expose conversion bottlenecks. |
 
-### 🧠 AI & automation
+### <img src="./assets/icon-ai.webp" width="36" height="30" align="absmiddle" alt=""> AI & automation
 
 ![Codex](https://img.shields.io/badge/Codex-107F68?style=for-the-badge)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
@@ -28,7 +28,7 @@
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white)
 
-### 📊 GTM & analytics
+### <img src="./assets/icon-analytics.png" width="32" height="32" align="absmiddle" alt=""> GTM & analytics
 
 ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge)
@@ -41,7 +41,7 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge)
 
-### 🛠️ Build & ship
+### <img src="./assets/icon-build.png" width="32" height="32" align="absmiddle" alt=""> Build & ship
 
 ![Figma](https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
