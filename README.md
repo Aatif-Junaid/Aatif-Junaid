@@ -5,7 +5,7 @@
 <table width="100%">
 <tr>
 <td width="25%" align="center"><a href="https://aatifmulla.me/"><img src="./assets/link-portfolio.svg" width="220" alt="Portfolio"></a></td>
-<td width="25%" align="center"><a href="https://aatifmulla.me/case-studies.html"><img src="./assets/link-case-studies.svg" width="220" alt="Case studies"></a></td>
+<td width="25%" align="center"><a href="https://aatifmulla.me/playbook.html"><img src="./assets/link-playbook.svg" width="220" alt="Playbook"></a></td>
 <td width="25%" align="center"><a href="https://aatifmulla.me/resume.pdf"><img src="./assets/link-resume.svg" width="220" alt="Resume PDF"></a></td>
 <td width="25%" align="center"><a href="https://www.linkedin.com/in/aatif-junaid"><img src="./assets/link-linkedin.svg" width="220" alt="LinkedIn"></a></td>
 </tr>
