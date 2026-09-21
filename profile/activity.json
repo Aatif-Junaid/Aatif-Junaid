@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-20T13:05:49.676Z",
+  "generatedAt": "2026-09-21T15:10:01.736Z",
   "window": {
-    "from": "2026-06-29T00:00:00.000Z",
-    "through": "2026-09-20T13:05:49.676Z",
+    "from": "2026-06-30T00:00:00.000Z",
+    "through": "2026-09-21T15:10:01.736Z",
     "calendarDays": 84
   },
   "methodology": "Unique commits authored by Aatif-Junaid on default branches of owned, public, non-fork repositories. Grouped by UTC committer date. Excludes private repositories, other branches, forks, and bot-authored commits. Active days are UTC dates with at least one included commit. Not GitHub contribution totals.",
@@ -24,52 +24,52 @@
   "activeDays": 39,
   "weeks": [
     {
-      "start": "2026-06-29",
-      "commits": 0
-    },
-    {
-      "start": "2026-07-06",
-      "commits": 43
-    },
-    {
-      "start": "2026-07-13",
-      "commits": 12
-    },
-    {
-      "start": "2026-07-20",
-      "commits": 5
-    },
-    {
-      "start": "2026-07-27",
-      "commits": 0
-    },
-    {
-      "start": "2026-08-03",
+      "start": "2026-06-30",
       "commits": 4
     },
     {
-      "start": "2026-08-10",
-      "commits": 1
-    },
-    {
-      "start": "2026-08-17",
+      "start": "2026-07-07",
       "commits": 41
     },
     {
-      "start": "2026-08-24",
-      "commits": 23
+      "start": "2026-07-14",
+      "commits": 10
     },
     {
-      "start": "2026-08-31",
-      "commits": 79
+      "start": "2026-07-21",
+      "commits": 5
     },
     {
-      "start": "2026-09-07",
+      "start": "2026-07-28",
+      "commits": 0
+    },
+    {
+      "start": "2026-08-04",
+      "commits": 5
+    },
+    {
+      "start": "2026-08-11",
+      "commits": 0
+    },
+    {
+      "start": "2026-08-18",
       "commits": 55
     },
     {
-      "start": "2026-09-14",
-      "commits": 18
+      "start": "2026-08-25",
+      "commits": 23
+    },
+    {
+      "start": "2026-09-01",
+      "commits": 81
+    },
+    {
+      "start": "2026-09-08",
+      "commits": 40
+    },
+    {
+      "start": "2026-09-15",
+      "commits": 17
     }
   ],
   "commits": [
