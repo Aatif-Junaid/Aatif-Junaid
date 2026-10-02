@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-01T15:30:48.598Z",
+  "generatedAt": "2026-10-02T14:47:44.500Z",
   "window": {
-    "from": "2026-07-10T00:00:00.000Z",
-    "through": "2026-10-01T15:30:48.598Z",
+    "from": "2026-07-11T00:00:00.000Z",
+    "through": "2026-10-02T14:47:44.500Z",
     "calendarDays": 84
   },
   "methodology": "Unique commits authored by Aatif-Junaid on default branches of owned, public, non-fork repositories. Grouped by UTC committer date. Excludes private repositories, other branches, forks, and bot-authored commits. Active days are UTC dates with at least one included commit. Not GitHub contribution totals.",
@@ -20,89 +20,59 @@
       "url": "https://github.com/Aatif-Junaid/gtm-lifecycle-engine"
     }
   ],
-  "authoredCommits": 268,
-  "activeDays": 40,
+  "authoredCommits": 263,
+  "activeDays": 39,
   "weeks": [
     {
-      "start": "2026-07-10",
-      "commits": 25
+      "start": "2026-07-11",
+      "commits": 20
     },
     {
-      "start": "2026-07-17",
-      "commits": 6
+      "start": "2026-07-18",
+      "commits": 7
     },
     {
-      "start": "2026-07-24",
-      "commits": 1
-    },
-    {
-      "start": "2026-07-31",
+      "start": "2026-07-25",
       "commits": 0
     },
     {
-      "start": "2026-08-07",
+      "start": "2026-08-01",
+      "commits": 0
+    },
+    {
+      "start": "2026-08-08",
       "commits": 5
     },
     {
-      "start": "2026-08-14",
+      "start": "2026-08-15",
+      "commits": 27
+    },
+    {
+      "start": "2026-08-22",
+      "commits": 30
+    },
+    {
+      "start": "2026-08-29",
+      "commits": 53
+    },
+    {
+      "start": "2026-09-05",
+      "commits": 88
+    },
+    {
+      "start": "2026-09-12",
       "commits": 17
     },
     {
-      "start": "2026-08-21",
-      "commits": 39
+      "start": "2026-09-19",
+      "commits": 5
     },
     {
-      "start": "2026-08-28",
-      "commits": 40
-    },
-    {
-      "start": "2026-09-04",
-      "commits": 102
-    },
-    {
-      "start": "2026-09-11",
-      "commits": 17
-    },
-    {
-      "start": "2026-09-18",
-      "commits": 4
-    },
-    {
-      "start": "2026-09-25",
-      "commits": 12
+      "start": "2026-09-26",
+      "commits": 11
     }
   ],
   "commits": [
-    {
-      "sha": "ddee6416741b3387bdb70bc4d364aac3f1a472ea",
-      "date": "2026-07-10T00:19:45Z",
-      "repository": "Aatif_Junaid-Website",
-      "url": "https://github.com/Aatif-Junaid/Aatif_Junaid-Website/commit/ddee6416741b3387bdb70bc4d364aac3f1a472ea"
-    },
-    {
-      "sha": "635cfbd3b592505b653df88c1b8dd39b6c8ed48f",
-      "date": "2026-07-10T01:51:25Z",
-      "repository": "Aatif_Junaid-Website",
-      "url": "https://github.com/Aatif-Junaid/Aatif_Junaid-Website/commit/635cfbd3b592505b653df88c1b8dd39b6c8ed48f"
-    },
-    {
-      "sha": "e7aa45f9fd41352d0e70508b9fef2eeb47d26b5c",
-      "date": "2026-07-10T07:03:56Z",
-      "repository": "Aatif_Junaid-Website",
-      "url": "https://github.com/Aatif-Junaid/Aatif_Junaid-Website/commit/e7aa45f9fd41352d0e70508b9fef2eeb47d26b5c"
-    },
-    {
-      "sha": "ab23bec6eb57b356a579bb2f2da6651f59d2214a",
-      "date": "2026-07-10T14:54:44Z",
-      "repository": "Aatif_Junaid-Website",
-      "url": "https://github.com/Aatif-Junaid/Aatif_Junaid-Website/commit/ab23bec6eb57b356a579bb2f2da6651f59d2214a"
-    },
-    {
-      "sha": "45d174d2c17362f296a1cc5f3bc8eaeac9b2a60e",
-      "date": "2026-07-10T20:14:42Z",
-      "repository": "Aatif_Junaid-Website",
-      "url": "https://github.com/Aatif-Junaid/Aatif_Junaid-Website/commit/45d174d2c17362f296a1cc5f3bc8eaeac9b2a60e"
-    },
     {
       "sha": "34b5cdd3e27ea2099529d180705ebee071bb31c0",
       "date": "2026-07-11T01:11:33Z",
