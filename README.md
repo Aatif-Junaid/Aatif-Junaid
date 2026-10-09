@@ -25,7 +25,7 @@
 <td align="left" valign="top"><small><strong>Turn experience into a digital product.</strong><br>Connect strategy, storytelling, AI-assisted building, testing, and deployment.</small></td>
 </tr>
 <tr>
-<td align="left" valign="top"><small><img src="./assets/icon-gtm.svg" width="32" height="32" align="absmiddle" alt=""> &nbsp; <strong>GTM Systems</strong> &nbsp; <a href="https://aatifmulla.me/gtm-systems.html">Explore live GTM systems ↗</a><br>Working examples of lead follow-up, lifecycle orchestration, and measurement systems built to make growth execution repeatable.</small></td>
+<td align="left" valign="top"><small><img src="./assets/icon-gtm.svg" width="32" height="32" align="absmiddle" alt=""> &nbsp; <strong>GTM Operating System</strong> &nbsp; <a href="https://aatifmulla.me/gtm-systems.html">Explore my GTM operating system ↗</a><br>Working examples of lead follow-up, lifecycle orchestration, and measurement systems built to make growth execution repeatable.</small></td>
 <td align="left" valign="top"><small><strong>Design connected GTM operations.</strong><br>Route signals, automate handoffs, and expose conversion bottlenecks.</small></td>
 </tr>
 </tbody>
